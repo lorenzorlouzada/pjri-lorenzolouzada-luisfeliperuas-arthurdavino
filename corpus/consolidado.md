@@ -6,7 +6,7 @@
 
 ## Integrantes
 
-- Lorenzoblyilho Louzada
+- Lorenzo Ribeiro Louzada
 - Luis Felipe Ruas
 - Arthur Davino
 
